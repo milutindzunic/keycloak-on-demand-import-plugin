@@ -1,1 +1,1 @@
-Attempting to write a Keycloak federation plugin to import users on-demand from a legacy portal application.
+Keycloak federation plugin, intended to import users on-demand from a Liferay Portal application.
